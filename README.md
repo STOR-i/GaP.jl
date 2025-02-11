@@ -98,7 +98,7 @@ Sample code is available from the [notebooks](https://github.com/STOR-i/Gaussian
 
 ## Related packages
 
-[GeoStats](https://github.com/juliohm/GeoStats.jl) - High-performance implementations of geostatistical algorithms for the Julia programming language. This package is in its initial development, and currently only contains Kriging estimation methods. More features will be added as the Julia type system matures.
+[GeoStats](https://github.com/JuliaEarth/GeoStats.jl) - Geostatistics in native Julia, including Kriging estimation, Gaussian processes, and more.
 
 ## ScikitLearn
 
